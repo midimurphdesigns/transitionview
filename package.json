@@ -1,0 +1,23 @@
+{
+  "name": "npm-transitionview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/midimurphdesigns/transitionview.git"
+  },
+  "keywords": [
+    "npm",
+    "npm-transitionview",
+    "react-native",
+    "mobile",
+    "view"
+  ],
+  "author": "Kevin Murphy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/midimurphdesigns/transitionview/issues"
+  },
+  "homepage": "https://github.com/midimurphdesigns/transitionview#readme"
+}
