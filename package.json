@@ -1,6 +1,6 @@
 {
   "name": "transitionview",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "main": "index.js",
   "repository": {
@@ -18,7 +18,19 @@
     "ui",
     "ux",
     "mobile",
-    "view"
+    "view",
+    "component",
+    "view-component",
+    "index",
+    "ios",
+    "android",
+    "multi-plateform",
+    "phone",
+    "asynchronous",
+    "async",
+    "data",
+    "async-data",
+    "asynchronous-data"
   ],
   "author": "Kevin Murphy",
   "license": "ISC",
