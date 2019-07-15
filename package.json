@@ -1,6 +1,6 @@
 {
-  "name": "npm-transitionview",
-  "version": "1.0.1",
+  "name": "transitionview",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "repository": {
@@ -9,8 +9,14 @@
   },
   "keywords": [
     "npm",
-    "npm-transitionview",
+    "transitionview",
     "react-native",
+    "animation",
+    "native",
+    "transition",
+    "transitions",
+    "ui",
+    "ux",
     "mobile",
     "view"
   ],

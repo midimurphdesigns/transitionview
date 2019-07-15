@@ -5,7 +5,7 @@ TransitionView is a drop-in replacement for a View component. It serves the same
 ## Installation
 
 ```
-npm i npm-transitionview
+npm i transitionview
 ```
 
 ## Usage
@@ -13,7 +13,7 @@ npm i npm-transitionview
 ### Include the components
 
 ```
-import { TransitionView } from "npm-transitionview";
+import { TransitionView } from "transitionview";
 ```
 
 ### Render Component
