@@ -6,7 +6,7 @@ export class TransitionView extends PureComponent {
     const { index, ...rest } = this.props;
     return (
       <Animatable.View
-        animation="fadeInDown"
+        animation="fadeIn"
         duration={500}
         delay={index ? (index * 500) / 5 : 0}
         useNativeDriver
