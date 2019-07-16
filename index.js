@@ -1,7 +1,7 @@
 import React, { PureComponent } from "react";
 import * as Animatable from "react-native-animatable";
 
-export class TransitionView extends PureComponent {
+module.exports = class TransitionView extends PureComponent {
   render() {
     const { index, ...rest } = this.props;
     return (
@@ -14,4 +14,4 @@ export class TransitionView extends PureComponent {
       />
     );
   }
-}
+};
