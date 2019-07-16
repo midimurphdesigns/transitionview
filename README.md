@@ -18,7 +18,7 @@ import { TransitionView } from "transitionview";
 
 ### Render Component
 
-By default, TransitioView receives the following props.
+By default, TransitioView receives the following props as well as all the default props of a regular React Native View component.
 
 ```
 <TransitionView
