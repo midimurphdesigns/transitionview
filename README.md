@@ -112,3 +112,5 @@ data.map((item, index) => {
 ### Misc. Notes
 
 The 'useNativeDriver' prop is set, so if you don't want to use native drivers for your animations you can set this prop to false (useNativeDriver={false}).
+
+Feel free to check out my work further at my portfolio & blog site - [https://kevinmurphywebdev.com](https://kevinmurphywebdev.com/ "Kevin Murphy's Portfolio/Blog Site").
