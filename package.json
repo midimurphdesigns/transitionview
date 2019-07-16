@@ -1,6 +1,6 @@
 {
   "name": "transitionview",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "TransitionView is a drop-in replacement for the React Native View component. It serves the same purpose, except to animate it into the UI. It utilizes the Animatable library for animations and adds an index prop to control the sequence at which things load.",
   "main": "index.js",
   "repository": {
