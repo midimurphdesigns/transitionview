@@ -44,14 +44,14 @@ To add sequence to components loading to the UI, use the 'delay' prop. So, the f
 
 ```
 data.map((item, index) => {
-return (
-  <TransitionView
-    index={index}
-  >
-  <Text>
-    {item.text}
-  <Text>
-)
+  return (
+    <TransitionView
+      index={index}
+    >
+    <Text>
+      {item.text}
+    <Text>
+  )
 })
 ```
 
